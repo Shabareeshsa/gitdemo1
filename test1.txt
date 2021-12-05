@@ -1,0 +1,10 @@
+ Volume in drive C is ssd
+ Volume Serial Number is 64ED-C56C
+
+ Directory of C:\Users\Admin\Desktop\my project
+
+05-12-2021  20:56    <DIR>          .
+05-12-2021  20:56    <DIR>          ..
+05-12-2021  20:56                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  42,950,029,312 bytes free
